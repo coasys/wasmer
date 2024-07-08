@@ -9,7 +9,7 @@ Looking for changes that affect our C API? See the [C API Changelog](lib/c-api/C
 
 ## **Unreleased**
 
-## 4.3.3 - 04/07/2024
+## 4.3.1 - 04/07/2024
 
 This release mainly contains fixes and refactors to help with the stability. Also some improvements to the cli and journaling.
 
